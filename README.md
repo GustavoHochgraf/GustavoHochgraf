@@ -28,5 +28,4 @@
   <a href = "mailto:gusthoch@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gustavo-hochgraf" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br>
   <img align="center" alt="robotdancing" height="150" src="https://media.giphy.com/media/fMA8pisLOUuqsHFF41/giphy.gif"/>
-</div>
-<a font-size="2" height="2" href="https://icons8.com/icon/laYYF3dV0Iew/microsoft-sql-server">Microsoft SQL Server icon by Icons8</a>
+ </div>
