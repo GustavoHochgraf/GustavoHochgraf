@@ -1,6 +1,6 @@
 ### Hello! My name is Gustavo Hochgraf
 
-- 🔭 I’m currently working with Data Science
+- 🔭 Working with Data Science
 - 🌱 Learning Unity for Augmented Reality and Data Science algorithms
 
  <div>
