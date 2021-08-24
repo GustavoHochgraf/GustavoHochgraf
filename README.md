@@ -11,10 +11,9 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="sql" height="30" width="40"  src="https://cdn.cdnlogo.com/logos/m/21/microsoft-sql-server.svg">
+  <img align="center" alt="sql" height="30" width="40" src="https://cdn.cdnlogo.com/logos/m/21/microsoft-sql-server.svg">
   <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
-  <img align="center" alt="unity" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
   <img align="center" alt="hive" height="30" width="40"  src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -30,3 +29,4 @@
   <a href="https://www.linkedin.com/in/gustavo-hochgraf" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br>
   <img align="center" alt="robotdancing" height="150" src="https://media.giphy.com/media/fMA8pisLOUuqsHFF41/giphy.gif"/>
 </div>
+<a font-size="2" height="2" href="https://icons8.com/icon/laYYF3dV0Iew/microsoft-sql-server">Microsoft SQL Server icon by Icons8</a>
