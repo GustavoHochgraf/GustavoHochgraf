@@ -1,7 +1,8 @@
 ### Hello! My name is Gustavo Hochgraf
 
 - 🔭 Working with Data Science
-- 🌱 Learning Unity for Augmented Reality and Data Science algorithms
+- 🌱 Technofile and that's why my undergrad thesis was about Augmented Reality, it's Unity sourcecode repo can be found here :)
+- 🧠 Always developing myself with new topics such as Data Science, Data Engineering, MLFlow techniques and all other kinds of new technologies and frameworks
 
  <div>
   <a href="https://github.com/gustavohochgraf">
